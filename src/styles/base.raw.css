@@ -11,21 +11,21 @@
 
 .labelPrimary {
   font-family: 'Arial, sans-serif';
-  font-size: 10px;
+  font-size: 12px;
   fill: black;
   font-weight: bold;
 }
 
 .labelSecondary {
   font-family: 'Arial, sans-serif';
-  font-size: 10px;
+  font-size: 12px;
   fill: black;
   font-weight: normal;
 }
 
 .labelItalic {
   font-family: 'Arial, sans-serif';
-  font-size: 10px;
+  font-size: 12px;
   fill: black;
   font-weight: normal;
   font-style: italic;
